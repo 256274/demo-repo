@@ -1,2 +1,4 @@
 trying to understad git commands
 changes are done for testing
+hello there
+
